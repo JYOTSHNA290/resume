@@ -1,0 +1,54 @@
+{
+  "profile":{
+    "name":"drum apu",
+    "image":"download.jpg",
+    "email":"aparna22@gmail.com",
+    "mobile":"102"
+  },
+  "career":{
+     "info":"to pursue a  challenging career and be a part of progressive organizarion "
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institution":"pvpsit",
+      "data":["2020","90%"]
+    },
+    {
+        "degree":"Intermediate",
+        "institution":"sri gayathri",
+        "data":["2016","20%"]
+      },
+      {
+        "degree":"s.s.c",
+        "institution":"Atkinsion",
+        "data":["2014","10%"]
+      }
+  ],
+  "skills":[
+    {
+      "title":"programming language",
+      "info":["c","c++","java","data structures","compiler design"]
+    },
+    {
+      "title":"databases",
+      "info":["oracle","SQL"]
+    },
+    {
+     "title":"operating system",
+     "info":["windows","MAC"]
+   },
+   {
+     "title":"web technologies",
+     "info":["XML","JS","css"]
+   }
+ ],
+ "achievements":[
+ {
+   "title":"ppt"
+ },
+ {
+    "title":"nptel"
+ }
+]
+}
